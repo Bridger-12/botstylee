@@ -11,7 +11,7 @@ RUN apt-get update && \
 COPY package.json .
 
 RUN npm install -g npm@latest
-RUN npm install @adiwajshing/baileys
+RUN npm install adiwajshing/baileys@latest
 RUN npm install qrcode-terminal
 RUN npm instal pm2 -g
 ENV PM2_PUBLIC_KEY smfthykaakt6csh
