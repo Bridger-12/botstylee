@@ -118,7 +118,7 @@ global.owner = [
 	//  ['6281234288573'],
 	//['12546153210'],
 	//['62895368900456'],
-	['62895368900456', 'Benniismael', true]
+	['628889616144', 'Ekuzika', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -136,10 +136,10 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BENNIISMAEL & GHOST'
+global.packname = 'ig : @ekuzikaa_18'
+global.author = 'BOTSTYLEE By Ekuzika'
 global.wm = 'BOTSTYLEE'
-global.nomorown = '62895368900456'
+global.nomorown = '628889616144'
 global.multiplier = 69 // The higher, The harder levelup
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${author}`
 global.rpg = {
